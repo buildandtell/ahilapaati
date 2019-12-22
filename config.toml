@@ -1,6 +1,5 @@
 DefaultContentLanguage = "as"
 baseURL = "https://ahilapaati.com/"
-title = "AhilaPaati"
 theme = "ink"
 paginate = 5
 
@@ -37,13 +36,13 @@ url = "https://github.com/knadh/ink"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "AhilaPaati"
+    title = "Ahila Paati, Etyadi."
     weight = 1
 	[languages.en.Taxonomies]
    		category = "categories"
   [languages.as]
     languageName = "অসমীয়া"
-    title = "অসমীয়া"
+	title = "আহিলা পাতি, ইত্যাদি।"
     weight = 2
 	[languages.as.Taxonomies]
 		categories = "categories"
