@@ -38,18 +38,20 @@ name = "RSS"
 icon = "rss"
 url = "/index.xml"
 
-[taxonomies]
-   category = "categories"
 
 [languages]
   [languages.en]
     languageName = "English"
     title = "AhilaPaati"
     weight = 1
+	[languages.en.Taxonomies]
+   		category = "categories"
   [languages.as]
     languageName = "অসমীয়া"
     title = "অসমীয়া"
     weight = 2
+	[languages.as.Taxonomies]
+		categories = "categories"
 
 [[languages.as.menu.main]]
 url    = "/"
