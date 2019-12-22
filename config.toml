@@ -3,7 +3,7 @@ baseURL = "https://ahilapaati.com/"
 theme = "ink"
 paginate = 5
 
-copyright = "© Copyright notice"
+copyright = "2020©Copyright"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -23,7 +23,7 @@ pygmentscodefencesguesssyntax = true
 	featherIconsCDN = true
 
 	mode = "light" # "dark" or "auto"
-	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
@@ -45,7 +45,7 @@ url = "https://github.com/knadh/ink"
 	title = "আহিলা পাতি, ইত্যাদি।"
     weight = 2
 	[languages.as.Taxonomies]
-		categories = "categories"
+   		category = "categories"
 
 [[languages.as.menu.main]]
 url    = "/"

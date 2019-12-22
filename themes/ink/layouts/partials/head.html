@@ -12,7 +12,7 @@
 		<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 		{{- end -}}
 		<nav class="nav social">
-			<ul class="flat">
+			<ul class="translation-buttons">
 				{{ range $.Site.Home.AllTranslations }}
 				<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
 				{{ end }}
