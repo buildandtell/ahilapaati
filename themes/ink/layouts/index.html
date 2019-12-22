@@ -22,6 +22,7 @@
 								<h4 class="title small">
 									<a href="{{ .RelPermalink }}">{{.Title}}{{ if .Draft }}<sup class="draft-label">DRAFT</sup>{{ end }}</a>
 								</h4>
+								<img src={{ .Params.photo }}></img>
 								<span class="description">
 									{{ if isset .Params "description" }}
 										{{ .Description }}
