@@ -1,6 +1,5 @@
+DefaultContentLanguage = "as"
 baseURL = "https://ahilapaati.com/"
-languageCode = "en-us"
-DefaultContentLanguage = "en"
 title = "AhilaPaati"
 theme = "ink"
 paginate = 5
@@ -29,22 +28,6 @@ pygmentscodefencesguesssyntax = true
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
-# Nav.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Categories"
-url = "/categories"
-weight = 3
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
-
 [[params.social]]
 name = "Github"
 icon = "github"
@@ -64,6 +47,37 @@ url = "/index.xml"
     title = "AhilaPaati"
     weight = 1
   [languages.as]
-    languageName = "Assamese"
+    languageName = "অসমীয়া"
     title = "অসমীয়া"
     weight = 2
+
+[[languages.as.menu.main]]
+url    = "/"
+name   = "গৃহ"
+weight = 1
+
+[[languages.as.menu.main]]
+url    = "/categories"
+name   = "বিভাগ"
+weight = 2
+
+[[languages.as.menu.main]]
+url    = "/about"
+name   = "তথ্য"
+weight = 3
+
+# Nav.
+[[languages.en.menu.main]]
+url = "/en/"
+name = "Home"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Categories"
+url = "/en/categories"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "About"
+url = "/en/about"
+weight = 3

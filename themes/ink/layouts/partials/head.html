@@ -13,9 +13,9 @@
 		{{- end -}}
 		<nav class="nav social">
 			<ul class="flat">
-				{{- range $index, $key := .Site.Params.Social -}}
-					<li><a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a></li>
-				{{- end -}}
+				{{ range $.Site.Home.AllTranslations }}
+				<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+				{{ end }}
 			</ul>
 		</nav>
 	</div>
