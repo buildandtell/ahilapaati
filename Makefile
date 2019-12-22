@@ -4,3 +4,6 @@ FILENAME ?= dummy-filename
 new-interview:
 	hugo new interviews/$(INTERVIEW_COUNT)/$(FILENAME).en.md
 	hugo new interviews/$(INTERVIEW_COUNT)/$(FILENAME).as.md
+
+local:
+	hugo serve -D

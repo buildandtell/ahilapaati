@@ -1,0 +1,8 @@
+## Style info
+1. All Categories are Titled Cased
+2. Singular
+
+---
+
+1. Artist
+2. Game Designer
