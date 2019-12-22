@@ -2,7 +2,7 @@
 title: "খাপলাং কাই"
 date: 2019-12-22T20:53:53+05:30
 description: নিশাটোৰ, ভিতৰতে, গাড়ীৰ
-photo: https://usesthis.com/images/interviews/michael.mcmaster/portrait.jpg
+photo: "portrait.jpg"
 draft: false
 categories:
   - গাড়ীৰ

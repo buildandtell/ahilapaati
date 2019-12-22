@@ -2,7 +2,7 @@
 title: "Khaplang Kai"
 date: 2019-12-22T20:53:53+05:30
 description: Artist, Gamer, Developer
-photo: https://usesthis.com/images/interviews/michael.mcmaster/portrait.jpg
+photo: "portrait.jpg"
 draft: false
 categories:
   - Artist
