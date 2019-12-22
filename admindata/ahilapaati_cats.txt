@@ -1,8 +1,15 @@
-## Style info
+## Style guide.
 1. All Categories are Titled Cased
-2. Singular
+2. Singular words
 
 ---
 
+Assamese
+--
+1. Artist
+2. Game Designer
+
+English
+--
 1. Artist
 2. Game Designer
