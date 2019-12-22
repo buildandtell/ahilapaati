@@ -36,6 +36,7 @@ url = "https://github.com/knadh/ink"
 [languages]
   [languages.en]
     languageName = "English"
+    langFlag = "🇬🇧"
     title = "Ahila Paati, Etyadi."
     weight = 1
 	[languages.en.Taxonomies]
@@ -43,6 +44,7 @@ url = "https://github.com/knadh/ink"
   [languages.as]
     languageName = "অসমীয়া"
 	title = "আহিলা পাতি, ইত্যাদি।"
+    langFlag = "🇮🇳"
     weight = 2
 	[languages.as.Taxonomies]
    		category = "categories"

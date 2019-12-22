@@ -14,7 +14,7 @@
 		<nav class="nav social">
 			<ul class="translation-buttons">
 				{{ range $.Site.Home.AllTranslations }}
-				<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+				<li><a href="{{ .Permalink }}">{{ .Site.Params.LangFlag }}</a></li>
 				{{ end }}
 			</ul>
 		</nav>
