@@ -1,5 +1,6 @@
 baseURL = "https://ahilapaati.com/"
 languageCode = "en-us"
+DefaultContentLanguage = "en"
 title = "AhilaPaati"
 theme = "ink"
 paginate = 5
@@ -56,3 +57,13 @@ url = "/index.xml"
 
 [taxonomies]
    category = "categories"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "AhilaPaati"
+    weight = 1
+  [languages.as]
+    languageName = "Assamese"
+    title = "অসমীয়া"
+    weight = 2

@@ -7,6 +7,7 @@
 
 		<div class="post">
 			<div class="post-header">
+				{{ if ne .Type "page" }}
 				{{ if ne .Date.Year 1 }}
 					<div class="meta">
 						<div class="date">
@@ -15,15 +16,12 @@
 						</div>
 					</div>
 				{{ end }}
+				{{ end }}
 				<div class="matter">
 					<h1 class="title">{{ .Title }}</h1>
 				</div>
 			</div>
-					
-			<div class="markdown">
-				{{ .Content }}
-			</div>
-
+            {{ .Params.description }}
 			<div class="tags">
 				{{ if ne .Type "page" }}
 					{{ if gt .Params.categories 0 }}
@@ -35,6 +33,11 @@
 					{{ end }}
 				{{ end }}
 			</div>
+            <hr/>
+			<div class="markdown">
+				{{ .Content }}
+			</div>
+
 
 			{{- if .Site.DisqusShortname -}}
 			{{- $.Scratch.Set "isDisqus" true -}}
