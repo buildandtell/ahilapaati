@@ -11,6 +11,8 @@ people all about the tools and techniques they're using to get things done.
 ---
 ## FAQ
 
+#### 👨‍🏭 What does "Ahila Paati Etyadi" mean?
+AhilaPaati
 #### ⏲ When are new interviews posted?
 Every Monday, 9PM IST.
 #### 💇 Can I suggest someone to interview?
