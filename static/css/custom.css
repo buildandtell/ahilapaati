@@ -8,3 +8,7 @@
 blockquote {
     font-family: 'Inter';
 }
+
+* {
+    background-color: aliceblue;
+}
