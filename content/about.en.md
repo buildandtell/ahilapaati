@@ -18,7 +18,7 @@ Absolutely! Send us the details!
 #### 👮 Is this a [usesthis](https://usesthis.com/) knockoff?
 Yes, indeed! but does not use any of [its code](https://github.com/waferbaby/usesthis) and is built [using hugo](https://github.com/buildandtell/ahilapaati). There is some extra work because this site also serves translations to every interview in [Assamese](/). If you'd like to volunteer for translations, please feel free to get in touch with us. We need your help! 🙏
 #### 📝 Why did we create this site?
-Well, there a lot of interesting and amazing people from Assam and I felt i know very few of them.
+Well, there a lot of interesting and amazing people from Assam and I felt i know very few of them. So we need to know!
 #### 🏃 Who runs this site?
 The [buildandtell](https://github.com/buildandtell) team is behind this.
 #### 💸 Can I help support the site?
