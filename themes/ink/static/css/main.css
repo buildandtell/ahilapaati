@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 2.75rem;
+    font-size: 2.20rem;
 }
 
 h2 {
@@ -199,7 +199,7 @@ ul {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 550px;
     margin-top: 50px;
 }
 
@@ -311,7 +311,7 @@ ul {
     margin: 0 0 10px 0;
 }
 .post .post-header {
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
 
 .post .draft-label {

@@ -26,13 +26,6 @@
 					<h1 class="title">{{ .Title }}</h1>
 				</div>
 			</div>
-			<div>
-				<small>
-
-				<span class="day">{{ dateFormat "02" .Date }}</span>
-				<span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
-				</small>
-			</div>
 
             {{ .Params.description }}
 			<div class="tags">
@@ -49,6 +42,15 @@
             <hr/>
 			<div class="markdown">
 				{{ .Content }}
+			</div>
+			<hr/>
+			<div>
+				<small>
+				Published:
+				<span class="day">{{ dateFormat "02" .Date }}</span>
+				<span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
+				</small>
+
 			</div>
 
 
