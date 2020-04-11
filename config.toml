@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-	subtitle = "Something else."
+	subtitle = "A collection of nerdy interviews as"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
@@ -44,7 +44,7 @@ url = "https://github.com/knadh/ink"
   [languages.as]
     languageName = "অসমীয়া"
 	title = "আহিলা পাতি, ইত্যাদি।"
-    langFlag = "🇮🇳"
+    langFlag = "অ"
     weight = 2
 	[languages.as.Taxonomies]
    		category = "categories"
