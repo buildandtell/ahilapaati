@@ -22,4 +22,5 @@ published once a week, asks a random selection of people all about the tools and
 - Who designed your logo? it's just a [licensed vector](https://pixabay.com/vectors/feather-inkwell-obsolete-1300305/), we don't have a logo. :(
 
 ## Contact
-ahilapaati@gmail.com
+- email: ahilapaati@gmail.com
+- [t.me/ahilapaati](https://t.me/ahilapaati)
