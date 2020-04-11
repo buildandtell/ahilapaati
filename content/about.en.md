@@ -4,9 +4,9 @@ date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
 
-Ahila Paati Etyadi is a collection of interviews of interesting people from [Assam](https://en.wikipedia.org/wiki/Assam)
+Ahila Paati Etyadi is a collection of interviews of interesting people from [Assam](https://en.wikipedia.org/wiki/Assam) who are doing what they love.
 
-published once a week, asks a random selection of people all about the tools and techniques they're using to get things done.
+people all about the tools and techniques they're using to get things done.
 
 ---
 ## FAQ
@@ -26,4 +26,4 @@ We use [notion](https://www.notion.so/?r=d8c207de26714fea8c17301381ecbced) for k
 #### 🎨 Who designed your logo?
 It's just a [licensed vector](https://pixabay.com/vectors/feather-inkwell-obsolete-1300305/), we don't have a logo. :(
 #### ☎️ How can I get in touch? 
-You can email us at ahilapaati@gmail.com or ping us in the [public telegram group](https://t.me/ahilapaati)
+You can email us at ahilapaati@gmail.com or ping us in the [public telegram group](https://t.me/ahilapaati), we're also on [instagram](#) btw!
