@@ -292,7 +292,7 @@ ul {
     text-align: center;
 }
 .post-header .meta .date .day {
-    font-family: "Playfair Display", serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     line-height: 0.45em;
     font-size: 3em;

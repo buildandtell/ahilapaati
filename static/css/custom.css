@@ -4,3 +4,7 @@
 .translation-buttons a{
     font-size: 2em;
 }
+
+blockquote {
+    font-family: 'Inter';
+}
