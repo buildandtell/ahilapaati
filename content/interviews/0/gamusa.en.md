@@ -24,7 +24,7 @@ What hardware do I use? Thanks for not asking what I am used for, but I'll tell 
 
 > Be prepared for anything when you're picked up at the store
 
-Otherwise, I use an old iPhone 4S, I don't owe any other gadget. Not really into technology.
+Otherwise, I use an old iPhone 4S and an old compaq desktop, I don't owe any other gadget. Not really into technology.
 
 ### And what software?
 Umm, I used to go out a lot but the lockdown situation during the COVID19 has changed life, cancelled Bihu! can you imagine that? So I am just spending my days scrolling my instagram feed, but I found this [interesting page that makes Assamese illustrations](https://www.instagram.com/daakor.boson/), it's pretty neat!
