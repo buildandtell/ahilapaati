@@ -8,7 +8,7 @@ FILENAME=<bhupen-hazarika> make new-interview
 ```
 
 ## Adding new categories
-If a category from `./admindata/ahilapaati_cats.txt` is not fitting the profile of the person in the post, follow the styleguide at `./admindata/ahilapaati_cats.txt` and add that category to the list aswell to the post.
+If a category from [`ahilapaati_cats.txt`](./admindata/ahilapaati_cats.txt) is not fitting the profile of the person in the post, follow the styleguide at [`ahilapaati_cats.txt`](./admindata/ahilapaati_cats.txt) and **add that category to the list first** and then to the post.
 
 ## Getting Content
 - Reachout to people who are willing to share their bit
