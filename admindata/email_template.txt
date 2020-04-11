@@ -14,8 +14,10 @@ the tools that you use that facilitate your work. If this sounds an interesting
 proposition to you, please let us know, so we can continue the conversation. 
 
 So here are the questions:
-- sakjdkj
-- sakjdkj
+- Who are you, and what do you do?
+- What hardware do you use?
+- And what software?
+- What would be your dream setup?
 
 Best,
 [[NAME_HERE]]
