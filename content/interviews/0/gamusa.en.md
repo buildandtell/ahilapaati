@@ -32,7 +32,7 @@ Umm, I used to go out a lot but the lockdown situation during the COVID19 has ch
 Nice to see young people using their modern software to put out great content about Assamese culture where I am still trying to torrent Bhupen Hazarika music albums from proxy piratebay sites.
 
 ### What would be your dream setup?
-Its a given that my dream setup is being a bandana [on someone playing a dhul](https://www.youtube.com/watch?v=Nk12PnNYdAw) but sometimes I think it'll be nice to just hang on to a rope in a late summer evening in a distant village.
+Its a given that my dream setup is being a bandanna [on someone playing a dhul](https://www.youtube.com/watch?v=Nk12PnNYdAw) but sometimes I think it'll be nice to just hang on to a rope in a late summer evening in a distant village.
 
 ---
 #### Note from author
