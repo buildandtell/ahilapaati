@@ -12,15 +12,15 @@ people all about the tools and techniques they're using to get things done.
 ## FAQ
 
 #### 👨‍🏭 What does "Ahila Paati Etyadi" mean?
-AhilaPaati
+In the Assamese language, "Ahila Paati" means tools of the trade that is used by craftsemn, and "Etyadi" stands for more!
 #### ⏲ When are new interviews posted?
 Every Monday, 9PM IST.
 #### 💇 Can I suggest someone to interview?
 Absolutely! Send us the details!
 #### 👮 Is this a [usesthis](https://usesthis.com/) knockoff?
-Yes, indeed! but does not use any of [its code](https://github.com/waferbaby/usesthis) and is built [using hugo](https://github.com/buildandtell/ahilapaati). There is some extra work because this site also serves translations to every interview in [Assamese](/). If you'd like to volunteer for translations, please feel free to get in touch with us. We need your help! 🙏
+Yes, indeed! but does not use any of [its code](https://github.com/waferbaby/usesthis) and is built using [hugo](https://github.com/buildandtell/ahilapaati). There is some extra work because this site also serves translations to every interview in [Assamese](/). If you'd like to volunteer for translations, please feel free to get in touch with us. We need your help! 🙏
 #### 📝 Why did we create this site?
-Well, there a lot of interesting and amazing people from Assam and I felt i know very few of them. So we need to know!
+Well, there a lot of interesting and amazing people from Assam and we felt we know very few of them. So we need to know!
 #### 🏃 Who runs this site?
 The [buildandtell](https://github.com/buildandtell) team is behind this.
 #### 💸 Can I help support the site?
