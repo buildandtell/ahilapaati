@@ -4,15 +4,14 @@ date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
 
-Ahila Paati Etyadi is a collection of interviews of interesting people from [Assam](https://en.wikipedia.org/wiki/Assam) who are doing what they love.
+Ahila Paati Etyadi is a collection of interviews of interesting people from [North East India](https://en.wikipedia.org/wiki/Northeast_India) who are doing what they love.
 
-people all about the tools and techniques they're using to get things done.
 
 ---
 ## FAQ
 
 #### 👨‍🏭 What does "Ahila Paati Etyadi" mean?
-In the Assamese language, "Ahila Paati" means tools of the trade that is used by craftsemn, and "Etyadi" stands for more!
+In the Assamese language, "Ahila Paati" means tools of the trade that is used by craftsmen, and "Etyadi" stands for more!
 #### ⏲ When are new interviews posted?
 Every Monday, 9PM IST.
 #### 💇 Can I suggest someone to interview?
