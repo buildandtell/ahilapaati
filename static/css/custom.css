@@ -2,7 +2,12 @@
     padding-top: 1em !important;
 }
 .translation-buttons a{
-    font-size: 2em;
+    font-size: 1.6em;
+}
+
+.site-description {
+    padding-top: 0.5em;
+    line-height: 1em;
 }
 
 blockquote {
