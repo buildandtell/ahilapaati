@@ -3,7 +3,7 @@ title: "গামোচা"
 date: 2020-04-11T15:33:31+05:30
 description: Cloth, Symbol
 photo: ./portrait.jpg
-draft: true
+draft: false
 categories:
   - Cloth
 ---
