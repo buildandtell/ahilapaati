@@ -6,10 +6,8 @@
 
 Assamese
 --
-1. Artist
-2. Game Designer
+1. কাপোৰ
 
 English
 --
-1. Artist
-2. Game Designer
+1. Cloth
