@@ -1,14 +1,14 @@
 ---
 title: "Gamusa"
 date: 2020-04-11T15:33:31+05:30
-description: Cloth
+description: a cloth
 photo: ./portrait.jpg
 draft: false
 categories:
   - Cloth
 ---
 
-> **Note:** This article is also [availabe in Assamese](/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations to Assamese.
+> **Note:** This article is also [available in Assamese](/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations to Assamese.
 
 ---
 

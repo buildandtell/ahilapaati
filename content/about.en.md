@@ -31,4 +31,4 @@ We use [notion](https://www.notion.so/?r=d8c207de26714fea8c17301381ecbced) for k
 #### 🎨 Who designed your logo?
 It's just a [licensed vector](https://pixabay.com/vectors/feather-inkwell-obsolete-1300305/), we don't have a logo. :(
 #### ☎️ How can I get in touch? 
-You can email us at ahilapaati@gmail.com or ping us in the [public telegram group](https://t.me/ahilapaati), we're also on [instagram](#) btw!
+You can email us at ahilapaatietyadi@gmail.com or ping us in the [public telegram group](https://t.me/ahilapaati), we're also on [instagram](https://www.instagram.com/ahilapaatietyadi/) btw!

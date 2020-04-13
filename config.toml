@@ -62,7 +62,7 @@ weight = 2
 
 [[languages.as.menu.main]]
 url    = "/about"
-name   = "তথ্য"
+name   = "আমাৰ বিষয়ে"
 weight = 3
 
 # Nav.

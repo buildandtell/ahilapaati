@@ -1,14 +1,14 @@
 ---
 title: "গামোচা"
 date: 2020-04-11T15:33:31+05:30
-description: কাপোৰ
+description: এটি গামোচা!
 photo: ./portrait.jpg
 draft: false
 categories:
   - কাপোৰ
 ---
 
-> **Note:** This article is also [availabe in English](/en/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations to Assamese.
+> **Note:** This article is also [available in English](/en/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations to Assamese.
 
 ---
 

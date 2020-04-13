@@ -1,5 +1,5 @@
 ---
-title: "কে ডি"
+title: "আমাৰ বিষয়ে"
 date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
@@ -37,6 +37,6 @@ type: "page"
 আমাৰ লোগো এটি ["licensed vector"](https://pixabay.com/vectors/feather-inkwell-obsolete-1300305/) হয়। এতিয়ালৈ আমাৰ লোগো ‌নায়। :(
 
 #### ☎️ আপোনাৰ সৈতে কেনেকৈ যোগাযগৰ কৰিবলে পাৰিম?
-আমাক আপুনি [email](ahilapaati@gmail.com) কৰিব পাৰিব! আৰু [তেলীগ্ৰাম](https://t.me/ahilapaati),[instagram]() এপ'ত পাব!
+আমাক আপুনি ahilapaatietyadi@gmail.com কৰিব পাৰিব! আৰু [তেলীগ্ৰাম](https://t.me/ahilapaati),[instagram](https://www.instagram.com/ahilapaatietyadi/) এপ'ত পাব!
 
 
