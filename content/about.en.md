@@ -29,6 +29,6 @@ The [buildandtell](https://github.com/buildandtell) team is behind this.
 #### 💸 Can I help support the site?
 We use [notion](https://www.notion.so/?r=d8c207de26714fea8c17301381ecbced) for keeping track of work related to this site. If you signup for notion [using this link](https://www.notion.so/?r=d8c207de26714fea8c17301381ecbced), we'll get some credits :)
 #### 🎨 Who designed your logo?
-It's just a [licensed vector](https://pixabay.com/vectors/feather-inkwell-obsolete-1300305/), we don't have a logo. :(
+It's just a [licensed vector](https://pixabay.com/vectors/feather-inkwell-obsolete-1300305/), we don't have a logo yet. :( If you're talking about the Assamese calligraphy the credit goes to [callieartgirl7](https://www.instagram.com/callieartgirl7/) :)
 #### ☎️ How can I get in touch? 
 You can email us at ahilapaatietyadi@gmail.com or ping us in the [public telegram group](https://t.me/ahilapaati), we're also on [instagram](https://www.instagram.com/ahilapaatietyadi/) btw!
