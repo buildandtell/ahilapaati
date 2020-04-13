@@ -8,6 +8,10 @@ categories:
   - কাপোৰ
 ---
 
+> **Note:** This article is also [availabe in English](/en/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations to Assamese.
+
+---
+
 ![এটি গামোচা!](/interviews/0/portrait.jpg)
 
 

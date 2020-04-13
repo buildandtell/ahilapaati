@@ -8,7 +8,7 @@ categories:
   - Cloth
 ---
 
-> **Note:** This article is also [availabe in Assamese](/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations.
+> **Note:** This article is also [availabe in Assamese](/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations to Assamese.
 
 ---
 
