@@ -7,7 +7,9 @@ draft: false
 categories:
   - Cloth
 ---
+
 > **Note:** This article is also [availabe in Assamese](/interviews/0/gamusa). Huge thanks to Pragati Kalita and Violet Duttson for helping with the translations.
+
 ---
 
 ![A gamusa](/interviews/0/portrait.jpg)
