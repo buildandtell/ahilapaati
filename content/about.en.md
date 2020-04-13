@@ -4,7 +4,7 @@ date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
 
-Ahila Paati Etyadi is a collection of interviews of interesting people from [North East India](https://en.wikipedia.org/wiki/Northeast_India) who are doing what they love.
+Ahila Paati Etyadi is a collection of nerdy interviews of interesting people from [North East India](https://en.wikipedia.org/wiki/Northeast_India) who are doing what they love.
 
 
 ---

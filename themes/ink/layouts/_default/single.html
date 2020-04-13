@@ -26,8 +26,7 @@
 					<h1 class="title">{{ .Title }}</h1>
 				</div>
 			</div>
-
-            {{ .Params.description }}
+            <small> {{ .Params.description }} </small>
 			<div class="tags">
 				{{ if ne .Type "page" }}
 					{{ if gt .Params.categories 0 }}
