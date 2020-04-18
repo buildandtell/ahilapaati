@@ -8,4 +8,4 @@ categories:
   - Artist
 ---
 
-![](/portrait.jpg)
+![](/interviews/<INTERVIEW_ID>/portrait.jpg)

@@ -11,3 +11,5 @@ Assamese
 English
 --
 1. Cloth
+2. Illustrator
+3. Designer
