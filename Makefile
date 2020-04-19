@@ -7,4 +7,4 @@ new-interview:
 	cp ./admindata/portrait.jpg ./content/interviews/$(INTERVIEW_COUNT)/portrait.jpg
 
 local:
-	hugo serve -D
+	hugo serve -D --bind="0.0.0.0"
