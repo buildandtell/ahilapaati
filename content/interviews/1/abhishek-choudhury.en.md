@@ -1,11 +1,11 @@
 ---
 title: "Abhishek Choudhury"
 date: 2020-04-19T01:24:13+05:30
-description: Illustrator, Designer
+description: Artist, Designer
 photo: ./portrait.jpg
-draft: true
+draft: false
 categories:
-  - Illustrator
+  - Artist
   - Designer
 ---
 
@@ -29,7 +29,7 @@ When I’m working on my PC I use the [Adobe creative suite](https://www.adobe.c
 
 ### How do you go about your work?
 
-There’s no fixed mantra as such. I make it a point to get plenty of rest and try not to overexert myself. It’s really initial’s to take breaks during creative quirky to avoid burning out or over-saturating yourself. I am a night owl so I work best when the world sleeps. I Make it a point to keep myself updated and stay connected with what’s the latest in the world of art and design and to keep updating my visual vocabulary. It’s very important to stay up to date and keep experimenting and sparring with the changing times and trends.
+There’s no fixed mantra as such. I make it a point to get plenty of rest and try not to overexert myself. It’s really important to take breaks during creative quirky to avoid burning out or over-saturating yourself. I am a night owl so I work best when the world sleeps. I Make it a point to keep myself updated and stay connected with what’s the latest in the world of art and design and to keep updating my visual vocabulary. It’s very important to stay up to date and keep experimenting and sparring with the changing times and trends.
 
 ### What would be your dream setup?
 
