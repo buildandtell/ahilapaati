@@ -3,7 +3,7 @@ title: "দেৱশিছ কংগৰ"
 date: 2020-06-08T21:01:50+05:30
 description: ফটোগ্ৰফেৰ
 photo: ./portrait.jpg
-draft: true
+draft: false
 categories:
   - ফটোগ্ৰফেৰ
 ---
