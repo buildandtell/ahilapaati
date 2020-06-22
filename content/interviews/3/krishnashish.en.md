@@ -9,6 +9,8 @@ categories:
   - Gamer
 ---
 
+> **Note:** This article is also [available in Assamese](/interviews/3/krishnashish/).
+
 ![](/interviews/3/portrait.jpg)
 
 > - [Who are you, and what do you do?](#who-are-you-and-what-do-you-do)
