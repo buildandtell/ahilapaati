@@ -16,3 +16,5 @@ English
 2. Artist
 3. Designer
 4. Photographer
+5. Developer
+6. Gamer
