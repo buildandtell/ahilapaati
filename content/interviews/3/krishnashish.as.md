@@ -1,7 +1,7 @@
 ---
 title: "কৃষ্নচিছ গোগৈ"
 date: 2020-06-22T03:38:41+05:30
-description: Artist, Gamer, Developer
+description: কম্পিউটাৰ বিকাশক
 photo: ./portrait.jpg
 draft: false
 categories:
