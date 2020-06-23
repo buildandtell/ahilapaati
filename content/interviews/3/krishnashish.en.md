@@ -9,10 +9,12 @@ categories:
   - Gamer
 ---
 
-> **Note:** This article is also [available in Assamese](/interviews/3/krishnashish/).
+> **Note:** This article is also [available in Assamese](/interviews/3/krishnashish/). Thanks to Monali Barman for the help in translation. We sadly could not translate word by word :(
 
 ![](/interviews/3/portrait.jpg)
 
+> **Note from Editor**: This is one of the few interviews on this site where I had to add a TOC because the length of the post but nonetheless super interesting! ✨
+>
 > - [Who are you, and what do you do?](#who-are-you-and-what-do-you-do)
 > - [What hardware do you use?](#what-hardware-do-you-use)
 > - [And what software?](#and-what-software)

@@ -1,12 +1,11 @@
 ---
 title: "অভিষেক চৌধুৰী"
 date: 2020-04-19T01:24:13+05:30
-description: শিল্পী, Designer
+description: শিল্পী
 photo: ./portrait.jpg
 draft: false
 categories:
   - শিল্পী
-  - Designer
 ---
 
 > **Note:** This article is also [available in English](/en/interviews/1/abhishek-choudhury/).
