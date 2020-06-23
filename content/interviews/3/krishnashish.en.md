@@ -62,7 +62,7 @@ This is a bit of a black hole in my case, so I'll try to limit it to the importa
 
 #### Operating system
 
-Windows 10 and Debian Testing.
+Windows 10 and [Debian Testing](https://en.wikipedia.org/wiki/Debian).
 
 During my teenage and extremely early adult years, I was a free and open source software extremist. Now, I'm perhaps a bit wiser and slightly less obnoxious than those days, so I've made my peace and use both as needed and necessary. I still have the same copy of Debian Testing running on one of my laptops that I installed somewhere around 2013.
 
