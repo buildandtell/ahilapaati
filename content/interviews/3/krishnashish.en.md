@@ -9,7 +9,7 @@ categories:
   - Gamer
 ---
 
-> **Note:** This article is also [available in Assamese](/interviews/3/krishnashish/). Thanks to Monali Barman for the help in translation. We sadly could not translate word by word :(
+> **Note:** This article is also [available in Assamese](/interviews/3/krishnashish/). Thanks to Monali Barman for the help in translation. We sadly could not translate everything :(
 
 ![](/interviews/3/portrait.jpg)
 
