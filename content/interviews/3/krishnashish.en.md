@@ -13,7 +13,7 @@ categories:
 
 ![](/interviews/3/portrait.jpg)
 
-> **Note from Editor**: This is one of the few interviews on this site where I had to add a TOC because the length of the post but nonetheless super interesting! ✨
+> **Note from Editor**: This is one of the few interviews on this site where I had to add a TOC because the length of the post but super interesting, nonetheless! ✨
 >
 > - [Who are you, and what do you do?](#who-are-you-and-what-do-you-do)
 > - [What hardware do you use?](#what-hardware-do-you-use)
