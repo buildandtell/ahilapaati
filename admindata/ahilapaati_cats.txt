@@ -12,6 +12,7 @@ Assamese
 4. ফটোগ্ৰফেৰ
 5. কম্পিউটাৰ বিকাশক
 6. কম্পিউটাৰ খেলুৱৈ
+7. 
 
 English
 --
@@ -21,3 +22,4 @@ English
 4. Photographer
 5. Developer
 6. Gamer
+7. Entrepreneur
