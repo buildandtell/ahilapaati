@@ -7,8 +7,7 @@ draft: true
 categories:
   - Developer
   - Entrepreneur
-
-
+---
 
 ![](/interviews/4/portrait.jpg)
 

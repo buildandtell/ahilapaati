@@ -8,7 +8,7 @@ categories:
   - কম্পিউটাৰ বিকাশক
   - entrepreneur
 
-
+---
 
 ![](/interviews/4/portrait.jpg)
 
