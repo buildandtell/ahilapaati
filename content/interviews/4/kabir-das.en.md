@@ -14,7 +14,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm Kabir Das (22 year old). I identify myself as an entrepreneur & developer focusing on computer vision & incubatee of [Assam Startup - The Nest](http://startup.assam.gov.in/). I'm working full time for my startup, Cipher Studios developing a product for the Retail Industry and partly work as the Technical Consultant in a Marketing Agency, [Blindspot Media](mediablidspot.in).
+I'm Kabir Das (22 year old). I identify myself as an entrepreneur & developer focusing on computer vision & incubatee of [Assam Startup - The Nest](http://startup.assam.gov.in/). I'm currently working as the CTO for One Stop Kitchen Food & Technology Pvt. Ltd while working for my startup, Cipher Studios developing a product for the Retail Industry and partly work as the Technical Consultant in a Marketing Agency, [Blindspot Media](mediablidspot.in).
 
 
 ### What hardware do you use?
