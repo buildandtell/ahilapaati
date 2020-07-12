@@ -12,7 +12,7 @@ If a category from [`ahilapaati_cats.txt`](./admindata/ahilapaati_cats.txt) is n
 
 ## Getting Content
 - Reachout to people who are willing to share their bit
-- Email them with the questions, use this [base email template.](https://docs.google.com/document/d/1mlcdgEgrHkv9KnIzu3zHcxetXizyWUY_Kxwb9GsKZOs/edit?usp=sharing)
+- Email them with the questions, use this [base email template.](https://drive.google.com/drive/u/2/folders/1F2eWsniJK2PaZYg40YXmSmaCLEtVMUu1)
 - Once you have the answers, rewrite it into a blogpost in one language.
 - Translate the first blogpost into the second language.
 - Publish and drink some beer 🍻
