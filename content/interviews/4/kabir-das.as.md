@@ -3,18 +3,19 @@ title: "কবিৰ দাস"
 date: 2020-06-30T11:00:00+05:30
 description: কম্পিউটাৰ বিকাশক
 photo: ./portrait.jpg
-draft: true
+draft: false
 categories:
   - কম্পিউটাৰ বিকাশক
   - entrepreneur
-
 ---
+
+> **Note:** This article is also [available in English](/en/interviews/4/kabir-das/).
 
 ![](/interviews/4/portrait.jpg)
 
 ### আপুনি কোন আৰু আপুনি কি কৰে
 
-মোৰ নাম কবিৰ দাস (২২ বছৰ)। মই দেভেলাপৰ আৰু "entrepreneur"  হৈ, আৰু বেছিকৈ মই কম্পিউটাৰ ভিচনৰ লগত জৰিত। মই [অসম স্তৰ্তাউপৰ](http://startup.assam.gov.in/) লগত কাম কৰি আছোঁ । মই মোৰ কোম্পানী , ["Cipher Studios"]()ত আৰু ["Blindspot Media"](mediablidspot.in)ত কাম কৰি আছোঁ।
+মোৰ নাম কবিৰ দাস (২২ বছৰ)। মই দেভেলাপৰ আৰু "entrepreneur" হৈ, আৰু বেছিকৈ মই কম্পিউটাৰ ভিচনৰ লগত জৰিত। মই [অসম স্তৰ্তাউপৰ](http://startup.assam.gov.in/) লগত কাম কৰি আছোঁ । মই মোৰ কোম্পানী , ["Cipher Studios"]()ত আৰু ["Blindspot Media"](mediablidspot.in)ত কাম কৰি আছোঁ।
 
 ### আপুনি বাৰু কি hardware ব্যৱহাৰ কৰে
 
@@ -23,9 +24,9 @@ categories:
 ### আৰু কি software
 
 সৰুকে কবলৈ গলে মোৰ কামৰ কাৰনে চফ্টৱেৰ দুতা ভাগ কৰা হৈ :
-  
-**দেভেলাপমেন্ত**  : [Visual Studio Code](https://code.visualstudio.com/)
-  
+
+**দেভেলাপমেন্ত** : [Visual Studio Code](https://code.visualstudio.com/)
+
 **মেনেজমেন্ট** : [Trello](https://trello.com/), [Slack](https://slack.com/), [Airtable](https://airtable.com/), [Numbers](https://www.apple.com/in/numbers/).
 
 মই ইয়াতে সৰু সুৰা কামৰ কাৰনে ব্যৱহাৰ কৰা বস্তু লিখা নাই, যেনে [জুপিটাৰ](https://jupyter.org/)।
