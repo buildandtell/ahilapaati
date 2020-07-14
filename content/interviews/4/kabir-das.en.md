@@ -29,7 +29,7 @@ In a gist, I have 2 different categories of work on a day-to-day basis.
 
 **Management** : [Trello](https://trello.com/), [Slack](https://slack.com/), [Airtable](https://airtable.com/), [Numbers](https://www.apple.com/in/numbers/).
 
-I'm not considering the different niche tools and platforms I use like [Jupyter](https://jupyter.org/)। for journals and code visualizations
+I'm not considering the different niche tools and platforms I use like [Jupyter](https://jupyter.org/) for journals and code visualizations
 
 ### How do you go about your work
 
