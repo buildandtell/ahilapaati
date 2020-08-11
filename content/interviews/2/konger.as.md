@@ -1,11 +1,11 @@
 ---
 title: "দেৱশিছ কংগৰ"
 date: 2020-06-08T21:01:50+05:30
-description: ফটোগ্ৰফেৰ
+description: ফটোগ্ৰাফাৰ
 photo: ./portrait.jpg
 draft: false
 categories:
-  - ফটোগ্ৰফেৰ
+  - ফটোগ্ৰাফাৰ
 ---
 
 > **Note:** This article is also [available in English](/en/interviews/2/konger/).
