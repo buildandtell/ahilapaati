@@ -24,18 +24,18 @@ Oh! And I have an [Assamese Whatsapp sticker pack on the Google PlayStore](https
 ### What hardware do you use?
 
 I'm a bit ashamed to answer this. It will show you how unprofessional I am!
-I started off with a Wacom One Small picked at absolute randomness at a Comic-con because it was on discount and the cheapest in the Wacom range. The device remained faithful to me until I furloughed it last year. In its place is a XP-Pen Artist 12 now, which I pleaded with a relative to buy at a Black Friday sale in the US. It was going for a 60% discount, I couldn't let that deal go!
+I started off with a [Wacom One Small](http://archive.is/Lhf4Y) picked at absolute randomness at a Comic-con because it was on discount and the cheapest in the Wacom range. The device remained faithful to me until I furloughed it last year. In its place is a [XP-Pen Artist 12](http://archive.is/W3ggX) now, which I pleaded with a relative to buy at a Black Friday sale in the US. It was going for a 60% discount, I couldn't let that deal go!
 You can almost sense it, so I will say it aloud: _“I cannot let go of a good bargain!”_ 💰
 
-I still don't own a desktop (illustrators reading this post, please be kind). The Wacom was hooked to a Sony VAIO laptop, the VAIO died of old age in 2017. Then came a very low-specs Lenovo notebook laptop, which I mainly used for reading, but for that time being, it worked fine until the Wacom was replaced by XP Pen. The moment I plugged in the XP Pen, the Lenovo went into a crazy spin ??, it just froze up after a few attempts!
+I still don't own a desktop (illustrators reading this post, please be kind). The Wacom was hooked to a [Sony VAIO laptop](https://en.wikipedia.org/wiki/Vaio), the VAIO died of old age in 2017. Then came a very low-specs Lenovo notebook laptop, which I mainly used for reading, but for that time being, it worked fine until the Wacom was replaced by XP Pen. The moment I plugged in the XP Pen, the Lenovo went into a crazy spin 🤖, it just froze up after a few attempts!
 
 So currently, I'm using a third-hand 9years old Dell laptop with good-enough-for-now specs (8GB RAM, i5) which has a dead battery and needs to be plugged in at all times. I hope it doesn't die on me.
 
 ### And what software?
 
-Photoshop all the way through. I know nothing else. I have the latest Photoshop CC 2020 on my degenerate laptop. This software is magnificent.
+[Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop) all the way through. I know nothing else. I have the latest Photoshop CC 2020 on my degenerate laptop. This software is magnificent.
 
-Totally irrelevant but I get very envious of illustrators using Procreate and creating masterpieces on their Apple phones, so I have recently downloaded the closest Android app to Procreate, Autodesk Sketchbook, and I am now at the pre-beginner-struggle phase with it.
+Totally irrelevant but I get very envious of illustrators using [Procreate](https://en.wikipedia.org/wiki/Procreate_(software)) and creating masterpieces on their Apple phones, so I have recently downloaded the closest Android app to Procreate, [Autodesk Sketchbook](https://en.wikipedia.org/wiki/Autodesk_SketchBook_Pro), and I am now at the pre-beginner-struggle phase with it.
 
 ### How do you go about your work?
 
